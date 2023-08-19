@@ -1,0 +1,7 @@
+<suite name = "Suite">
+    <test name = "Test">
+        <classes>
+            <class name = "in.at.testanotation.TestClass"></class>
+        </classes>
+    </test>
+</suite>
